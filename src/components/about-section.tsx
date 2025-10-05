@@ -4,7 +4,7 @@ import { Timeline } from "./timeline";
 const experienceItems = [
   {
     date: "May 2025 - present",
-    title: "Founder at Faura",
+    title: "Founder at Leafon",
     description: "Started a company focused on Nature, Climate.",
   },
   {
